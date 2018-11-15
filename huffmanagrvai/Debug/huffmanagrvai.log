@@ -1,0 +1,15 @@
+﻿  Origem.cpp
+c:\users\willian\documents\visual studio 2017\projects\huffmanagrvai\huffmanagrvai\origem.cpp(50): warning C4273: 'strdup': vínculo de dll inconsistente
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(538): note: consulte a definição anterior de 'strdup'
+c:\users\willian\documents\visual studio 2017\projects\huffmanagrvai\huffmanagrvai\origem.cpp(52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: consulte a declaração de 'strcpy'
+c:\users\willian\documents\visual studio 2017\projects\huffmanagrvai\huffmanagrvai\origem.cpp(371): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: consulte a declaração de 'fopen'
+c:\users\willian\documents\visual studio 2017\projects\huffmanagrvai\huffmanagrvai\origem.cpp(375): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: consulte a declaração de 'fopen'
+c:\users\willian\documents\visual studio 2017\projects\huffmanagrvai\huffmanagrvai\origem.cpp(480): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: consulte a declaração de 'fopen'
+c:\users\willian\documents\visual studio 2017\projects\huffmanagrvai\huffmanagrvai\origem.cpp(484): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: consulte a declaração de 'fopen'
+  huffmanagrvai.vcxproj -> c:\users\willian\documents\visual studio 2017\Projects\huffmanagrvai\Debug\huffmanagrvai.exe
+  huffmanagrvai.vcxproj -> c:\users\willian\documents\visual studio 2017\Projects\huffmanagrvai\Debug\huffmanagrvai.pdb (Partial PDB)
